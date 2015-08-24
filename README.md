@@ -49,7 +49,7 @@ Note: Tested only on linux server on php 5.2 with - zip option(req. specially on
 <br />3.Now you enter the user's server etc details in the form and can install wordpress with plugins/templates on the user's domain at the press of a button
 
 If you have any other problems, ideas for improvement, or you may wanna donate, then either:
-<br /> Reach on our project page http://wordpressinstallationsystem.googlecode.com
+<br /> Reach on our project page https://github.com/speedily/wordpressinstallationsystem
 or
 <br /> Contact me on http://abhishekjha.net/ or use github issues.
 
