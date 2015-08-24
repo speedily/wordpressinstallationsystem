@@ -18,7 +18,7 @@ http://wordpressinstallationsystem.googlecode.com
 ---
 
 ## by Abhishek Jha ##
-http://abhishekjha.net/contactme
+http://abhishekjha.net/
 
 ---
 
