@@ -10,8 +10,7 @@ Automatically exported from code.google.com/p/wordpressinstallationsystem
 
 > # Wordpress Installation System #
 
-http://wordpressinstallationsystem.googlecode.com
-
+https://github.com/speedily/wordpressinstallationsystem
 ---
 
 
